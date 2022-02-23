@@ -10,10 +10,10 @@ int main () {
     printf("\n.............................\n");
     printf("\nAssets Loaded\n");
   printf("\nElder Kernel V0.0.1\n");
-  printf("\nTESTING. Please be careful!\n")
+  printf("\nTESTING. Please be careful!\n");
   char str[100];
   int age;
-   printf( "What is your age?");
+   printf( "\nWhat is your age?");
    scanf("%d", &age );
    printf("\nYou entered %d.\n", age);
    if (age < 12) {
